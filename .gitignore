@@ -26,3 +26,6 @@ local.properties
 
 # Keystore files
 *.jks
+
+*.sqlite3
+*.sqlite
