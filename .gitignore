@@ -37,6 +37,7 @@ nearby/nearby/__pycache__/
 nearby/mainview/__pycache__/
 *.py[cod]
 *$py.class
+*.pyc
 
 # C extensions
 *.so
